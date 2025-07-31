@@ -1,28 +1,28 @@
 # Finance-Executive-Dashboard
 An interactive Power BI Finance Dashboard that delivers key insights into Sales, Profit, COGS, and Discounts. Includes dynamic KPIs, trend analysis, segment-wise breakdown, and geographical insights for smarter, data-driven decisions.
 
-1) Project Title/Headline
+# 1) Project Title/Headline
 A concise and impactful name that immediately conveys the essence of your project. It should be catchy and informative.
 Example:
 "Executive Summary: Dynamic Finance Performance Dashboard"
 
-2) Short Description/Purpose
+# 2) Short Description/Purpose 
 A brief overview of what the dashboard is, its primary goal, and what kind of insights it provides to the user.
 Example:
 This interactive Power BI dashboard provides a real-time executive summary of key financial performance indicators. Its purpose is to offer a holistic view of sales, profitability, and cost structures, enabling stakeholders to quickly identify trends, understand profit distribution by country, and analyze sales performance across different products and segments, ultimately facilitating data-driven strategic decisions.
 
-3) Tech Stack
+# 3) Tech Stack
 The main tools, languages, and platforms used to build the dashboard.
 Example:
 "Microsoft Power BI"
 
-4) Data Source
+# 4) Data Source 
 Information about where the data used in the dashboard originates from.
 Example:
 Source: kaggle.com
 The dashboard is populated with a comprehensive financial dataset covering sales transactions, profit figures, discount applications, cost of goods sold (COGS), quantity metrics, and geographical information, aggregated over multiple periods (e.g., 2013-2014 financial data).
 
-5) Features/Highlights
+# 5) Features/Highlights
 A bulleted list detailing the key functionalities, insights, and interactive elements that the dashboard offers.
 Example:
 (i) Business Problem
@@ -81,7 +81,7 @@ Insight: It highlights top-selling products like 'Paseo' and 'Velo' and their st
 "Are our profitability trends improving over time?"
 Insight: The "Total Profit by Year" line graph demonstrates a clear upward trend in profit from September to December 2013, confirming positive momentum and validating recent business strategies.
 
-6) Screenshots / Demos
+# 6) Screenshots / Demos
 Shows what the dashboard looks like.
 Example:
 https://github.com/shivanisyal09/Finance-Executive-Dashboard/blob/main/financial_dashboard.png
