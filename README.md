@@ -44,15 +44,15 @@ The dashboard strategically employs a mix of powerful visualizations, each servi
 (iv) Key Insights
 The dashboard surfaces critical insights by synthesizing complex financial data into digestible visuals:
 
-# Strong Q4 Profit Growth (2013): The "Total Profit by Year" chart clearly indicates a robust upward trend in profitability from September to December 2013, suggesting successful year-end campaigns or seasonal strength.
+ Strong Q4 Profit Growth (2013): The "Total Profit by Year" chart clearly indicates a robust upward trend in profitability from September to December 2013, suggesting successful year-end campaigns or seasonal strength.
 
-# October as Peak Sales Month: "Total Sales by Month" highlights October as the overwhelmingly dominant sales month at 35.19%, followed by September (27.51%), indicating a strong concentrated sales period that could be leveraged further.
+ October as Peak Sales Month: "Total Sales by Month" highlights October as the overwhelmingly dominant sales month at 35.19%, followed by September (27.51%), indicating a strong concentrated sales period that could be leveraged further.
 
-# Dominant Profit Regions: The "Sum of Profit by Country" map instantly reveals that North America and Europe are the primary drivers of profit, warranting deeper investment or analysis into these markets.
+ Dominant Profit Regions: The "Sum of Profit by Country" map instantly reveals that North America and Europe are the primary drivers of profit, warranting deeper investment or analysis into these markets.
 
-# Key Product & Segment Performance: Products like 'Paseo' and 'Velo' demonstrate significant sales contributions, particularly strong in segments like 'Enterprise' and 'Government'. This insight can inform sales strategies and product development.
+ Key Product & Segment Performance: Products like 'Paseo' and 'Velo' demonstrate significant sales contributions, particularly strong in segments like 'Enterprise' and 'Government'. This insight can inform sales strategies and product development.
 
-# Pricing Strategy Effectiveness: The "Units Sold by Manufacturing Price" shows that specific price points (e.g., the tier contributing 31.07% of units) are highly effective, suggesting the sweet spot for customer acquisition or volume.
+ Pricing Strategy Effectiveness: The "Units Sold by Manufacturing Price" shows that specific price points (e.g., the tier contributing 31.07% of units) are highly effective, suggesting the sweet spot for customer acquisition or volume.
 
 (v) Business Impact
 The insights derived from this dashboard lead to tangible business impacts:
@@ -84,3 +84,4 @@ Insight: The "Total Profit by Year" line graph demonstrates a clear upward trend
 6) Screenshots / Demos
 Shows what the dashboard looks like.
 Example:
+https://github.com/shivanisyal09/Finance-Executive-Dashboard/blob/main/financial_dashboard.png
