@@ -20,9 +20,36 @@ Example:
 Information about where the data used in the dashboard originates from.
 Example:
 Source: kaggle.com
-The dashboard is populated with a comprehensive financial dataset covering sales transactions, profit figures, discount applications, cost of goods sold (COGS), quantity metrics, and geographical information, aggregated over multiple periods (e.g., 2013-2014 financial data).
 
-# 5) Features/Highlights
+# 5) Meta data
+The dashboard is powered by a detailed financial dataset, which includes the following key dimensions and measures:
+
+Segment: Customer or market segments.
+
+Country: Geographical location for sales and profit analysis.
+
+Product: Product categories or specific product identifiers.
+
+Discount: Values indicating applied discounts.
+
+Units Sold: Number of units transacted.
+Manufacturing Price: Price at the point of manufacture.
+
+Sale Price: Price at which products were sold.
+
+Gross Sales: Total sales before discounts.
+
+Discounts: Amount of discounts applied.
+
+Sales: Revenue generated from transactions.
+
+COGS (Cost of Goods Sold): Direct costs attributable to the production of goods sold.
+
+Profit: Financial gain from sales after expenses.
+
+Date, Month Number, Month Name, Year: Temporal dimensions for trend analysis.
+
+# 6) Features/Highlights
 A bulleted list detailing the key functionalities, insights, and interactive elements that the dashboard offers.
 Example:
 (i) Business Problem
@@ -81,7 +108,7 @@ Insight: It highlights top-selling products like 'Paseo' and 'Velo' and their st
 "Are our profitability trends improving over time?"
 Insight: The "Total Profit by Year" line graph demonstrates a clear upward trend in profit from September to December 2013, confirming positive momentum and validating recent business strategies.
 
-# 6) Screenshots / Demos
+# 7) Screenshots / Demos
 Shows what the dashboard looks like.
 Example:
 https://github.com/shivanisyal09/Finance-Executive-Dashboard/blob/main/financial_dashboard.png
