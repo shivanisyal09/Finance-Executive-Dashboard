@@ -42,6 +42,7 @@ The dashboard is powered by a detailed financial dataset, which includes the fol
 # 6) Features/Highlights
 A bulleted list detailing the key functionalities, insights, and interactive elements that the dashboard offers.
 Example:
+
 (i) Business Problem
 Before this dashboard, businesses often grapple with dispersed and static financial data, leading to a lack of real-time visibility and a fragmented understanding of performance. This often results in time-consuming manual data compilation, delayed reporting, and an inability to swiftly identify critical trends or anomalies across sales, costs, and profits, hindering agile decision-making and strategic planning.
 
