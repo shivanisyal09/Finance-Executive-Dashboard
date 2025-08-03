@@ -18,36 +18,26 @@ Example:
 
 # 4) Data Source 
 Information about where the data used in the dashboard originates from.
+
 Example:
 Source: kaggle.com
 
 # 5) Meta data
 The dashboard is powered by a detailed financial dataset, which includes the following key dimensions and measures:
 
-Segment: Customer or market segments.
-
-Country: Geographical location for sales and profit analysis.
-
-Product: Product categories or specific product identifiers.
-
-Discount: Values indicating applied discounts.
-
-Units Sold: Number of units transacted.
-Manufacturing Price: Price at the point of manufacture.
-
-Sale Price: Price at which products were sold.
-
-Gross Sales: Total sales before discounts.
-
-Discounts: Amount of discounts applied.
-
-Sales: Revenue generated from transactions.
-
-COGS (Cost of Goods Sold): Direct costs attributable to the production of goods sold.
-
-Profit: Financial gain from sales after expenses.
-
-Date, Month Number, Month Name, Year: Temporal dimensions for trend analysis.
+-  Segment: Customer or market segments.
+-  Country: Geographical location for sales and profit analysis.
+-  Product: Product categories or specific product identifiers.
+-  Discount: Values indicating applied discounts.
+-  Units Sold: Number of units transacted.
+-  Manufacturing Price: Price at the point of manufacture.
+-  Sale Price: Price at which products were sold.
+-  Gross Sales: Total sales before discounts.
+-  Discounts: Amount of discounts applied.
+-  Sales: Revenue generated from transactions.
+-  COGS (Cost of Goods Sold): Direct costs attributable to the production of goods sold.
+-  Profit: Financial gain from sales after expenses.
+-  Date, Month Number, Month Name, Year: Temporal dimensions for trend analysis.
 
 # 6) Features/Highlights
 A bulleted list detailing the key functionalities, insights, and interactive elements that the dashboard offers.
